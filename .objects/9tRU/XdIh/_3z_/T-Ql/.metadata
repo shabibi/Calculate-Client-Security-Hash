@@ -1,0 +1,13 @@
+﻿{
+  "Name": "New Status",
+  "Type": "Element",
+  "Id": "T-Ql4a7qVkuhg4f2btntEA",
+  "Reference": "gIIRieR9U0iY4o6rQ-a_zw/T-Ql4a7qVkuhg4f2btntEA",
+  "ParentRef": "gIIRieR9U0iY4o6rQ-a_zw/_3z_IunWCEK1KXmwFOetYA",
+  "Created": "2025-04-16T07:49:56.7677099Z",
+  "Updated": "2025-04-16T07:49:56.7677099Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
